@@ -27,3 +27,4 @@ Goal - I want contributors to help me list some favorite programming languages.
 6. JavaScript
 7. PHP
 8. Java
+9. Go
