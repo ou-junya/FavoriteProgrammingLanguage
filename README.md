@@ -30,3 +30,4 @@ Goal - I want contributors to help me list some favorite programming languages.
 9. Go
 10. Python
 11. C#
+12. Julia
