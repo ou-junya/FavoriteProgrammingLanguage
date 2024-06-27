@@ -24,4 +24,8 @@ Goal - I want contributors to help me list some favorite Baseball players.
 3.Neo Akira
 4.Fujiwara Kyota
 5.Okugawa Yasunobu
-6.sadaharu oh
+6.Otani Shohei
+7. ドカベン 山田太郎
+8. Taneichi Atsuki
+9. sadaharu oh
+
