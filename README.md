@@ -29,3 +29,4 @@ To complete the assignment, please do the following:
 7. Chinsukou
 8. Meat
 9. Natto
+10. Yakiniku
